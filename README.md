@@ -8,13 +8,12 @@ La característica seleccionada para entrenar el modelo es **`median_income`** (
 - Intuitivamente, zonas con mayor ingreso promedio tienden a tener viviendas de mayor valor.
 ## Instrucciones de uso
 1. Colocar el archivo housing.csv en el colab.
+   
+2. Ejecuta las celdas en orden
 
-Ejecuta las celdas en orden:
+3. Para realizar una predicción manual:
 
-Para realizar una predicción manual:
+- Ingresa un valor para median_income cuando se solicite.
+  - El modelo devolverá el valor estimado de median_house_value en dolares.
 
-Ingresa un valor para median_income cuando se solicite.
-
-El modelo devolverá el valor estimado de median_house_value en dolares.
-
-SALUDOS :)
+**SALUDOS :)**
