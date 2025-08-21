@@ -1,7 +1,6 @@
 # CFE-IA-E1
 
-# Predicción de Valor Medio de Viviendas
-
+# Regresión Lineal Simple
 ## Característica elegida
 La característica seleccionada para entrenar el modelo es **`median_income`** (ingreso medio de la zona).  
 **Justificación:**  
